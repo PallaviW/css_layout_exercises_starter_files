@@ -1,4 +1,8 @@
-
+body{
+	background : url('../images/outerspace_landscape.jpeg') no-repeat ;
+  
+  background-size: cover;
+}
 nav {
  
 	  position: fixed;
@@ -51,8 +55,6 @@ img[src*='dog']{
     position: relative;
     left: 900px;
     bottom: 70px;
-	
-
-
-
 	}
+
+
